@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prakharshukla25 (# Prakhar Shukla)
+- 👋 Hi, I’m @prakharshukla25 
 - 👀 I’m interested in projects related to C++,Python And Mern-Stack
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on 
