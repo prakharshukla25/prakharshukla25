@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Prakhar Shukla** (@prakharshukla25).
-- 💻 I’m an **Azure DevOps Engineer** with 4+ years of IT experience**, including expertise in Appian development and enterprise application solutions.
+- 💻 I’m an **Azure DevOps Engineer** with 4+ years of IT experience**, including expertise in Devops and Cloud.
 - 🚀 I’m passionate about **Cloud Computing, DevOps Automation, CI/CD Pipelines, and Infrastructure Management**.
 - 🛠️ I work with **Azure DevOps, Git, GitHub, Linux, Docker, Kubernetes, Bash, PowerShell, and Python**.
 - 🌱 I’m currently strengthening my skills in **Terraform, Azure Kubernetes Service (AKS), Infrastructure as Code (IaC), and Cloud Security**.
